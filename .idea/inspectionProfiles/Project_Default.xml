@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.layer_names" />
+          <option value="cityscapesscripts.evaluation.instances2dict_with_polygons" />
+          <option value="deep_sort.object_detection" />
+          <option value="tensorflow.*" />
+          <option value="player_detection.object_detection" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
